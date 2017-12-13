@@ -1,0 +1,70 @@
+# Blender MTL File: 'TableWithObjects.blend'
+# Material Count: 6
+
+newmtl 45ACP_Mats
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.699478 0.750000 0.315374
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/SA_45ACP_Example_blend/SA_45ACP_Diffuse.tga
+map_Bump /Users/Jose/Desktop/CS148/pf/cs148-final/SA_45ACP_Example_blend/SA_45ACP_Normals.tga
+map_Ks /Users/Jose/Desktop/CS148/pf/cs148-final/SA_45ACP_Example_blend/SA_45ACP_Specular.tga
+
+newmtl Material.002
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/cl3/lights_texture.png
+
+newmtl Waffle_Box
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/waffles/leggo.jpg
+
+newmtl Waffle_Box_leggo.jpg
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/waffles/leggo.jpg
+
+newmtl tabletop
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/coffee_table/tabletop.jpeg
+
+newmtl tabletop_tabletop.jpeg
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/coffee_table/tabletop.jpeg
