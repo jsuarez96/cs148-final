@@ -1,4 +1,4 @@
-# Blender MTL File: 'None'
+# Blender MTL File: 'room4_gray.blend'
 # Material Count: 13
 
 newmtl Material.001
@@ -52,7 +52,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/coffee_table/tabletop.jpeg
 
 newmtl Material.003_NONE
@@ -63,7 +63,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 
 newmtl Material.003_SA_45ACP_Diffuse.tga
 Ns 92.156863
@@ -73,7 +73,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/SA_45ACP_Example_blend/SA_45ACP_Diffuse.tga
 
 newmtl Material.003_leggo.jpg
@@ -84,7 +84,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/waffles/leggo.jpg
 
 newmtl Material.003_lights_texture.png
@@ -95,7 +95,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/cl3/lights_texture.png
 
 newmtl Material.003_pillow.jpg
@@ -106,7 +106,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/couch3/pillow.jpg
 
 newmtl Material.003_tabletop.jpeg
@@ -117,7 +117,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/couch3/tabletop.jpeg
 
 newmtl Material.003_vintage_floral.png
@@ -128,7 +128,7 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/room/vintage_floral.png
 
 newmtl Material.003_vintage_floral_letter.png
@@ -139,5 +139,5 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
-illum 2
+illum 1
 map_Kd cs148-final/light4/vintage_floral_letter.png
