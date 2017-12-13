@@ -10,46 +10,46 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/SA_45ACP_Example_blend/SA_45ACP_Diffuse.tga
-map_Bump /Users/Jose/Desktop/CS148/pf/cs148-final/SA_45ACP_Example_blend/SA_45ACP_Normals.tga
-map_Ks /Users/Jose/Desktop/CS148/pf/cs148-final/SA_45ACP_Example_blend/SA_45ACP_Specular.tga
+map_Kd cs148-final/SA_45ACP_Example_blend/SA_45ACP_Diffuse.tga
+map_Bump cs148-final/SA_45ACP_Example_blend/SA_45ACP_Normals.tga
+map_Ks cs148-final/SA_45ACP_Example_blend/SA_45ACP_Specular.tga
 
 newmtl Blanket
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jmcra_000/cs148final/cs148-final/couch3/stripes.jpeg
+map_Kd cs148-final/couch3/stripes.jpeg
 
 newmtl Boards
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.900000 0.900000 0.900000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jmcra_000/Desktop/boards.jpg
+map_Kd cs148-final/room/boards.jpg
 
 newmtl Boards_boards.jpg
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.900000 0.900000 0.900000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jmcra_000/Desktop/boards.jpg
+map_Kd cs148-final/room/boards.jpg
 
 newmtl Material.001
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
@@ -59,18 +59,18 @@ illum 2
 
 newmtl Material.002
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.700000 0.700000 0.700000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jmcra_000/cs148final/cs148-final/couch3/tabletop.jpeg
+map_Kd cs148-final/couch3/tabletop.jpeg
 
 newmtl Material.003
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.066626 0.038204 0.015996
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
@@ -80,14 +80,14 @@ illum 2
 
 newmtl Material.004
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jmcra_000/cs148final/cs148-final/couch3/pillow.jpg
+map_Kd cs148-final/couch3/pillow.jpg
 
 newmtl Material.005
 Ns 92.156863
@@ -98,7 +98,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/cl3/lights_texture.png
+map_Kd cs148-final/cl3/lights_texture.png
 
 newmtl Material.006
 Ns 92.156863
@@ -109,51 +109,51 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jmcra_000/cs148final/cs148-final/light4/vintage_floral_letter.png
+map_Kd cs148-final/light4/vintage_floral_letter.png
 
 newmtl Material.007
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.250000 0.250000 0.250000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/jmcra_000/cs148final/cs148-final/cl3/lights_texture.png
+map_Kd cs148-final/cl3/lights_texture.png
 
 newmtl Waffle_Box
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/waffles/leggo.jpg
+map_Kd cs148-final/waffles/leggo.jpg
 
 newmtl Waffle_Box_leggo.jpg
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/waffles/leggo.jpg
+map_Kd cs148-final/waffles/leggo.jpg
 
 newmtl carpet
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd carpet.png
+map_Kd cs148-final/room/carpet.png
 
 newmtl lambert6SG
 Ns 94.117647
@@ -167,33 +167,33 @@ illum 6
 
 newmtl tabletop
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/coffee_table/tabletop.jpeg
+map_Kd cs148-final/coffee_table/tabletop.jpeg
 
 newmtl tabletop_tabletop.jpeg
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/Jose/Desktop/CS148/pf/cs148-final/coffee_table/tabletop.jpeg
+map_Kd cs148-final/coffee_table/tabletop.jpeg
 
 newmtl wall
 Ns 92.156863
-Ka 1.000000 1.000000 1.000000
+Ka 0.000000 0.000000 0.000000
 Kd 0.640000 0.640000 0.640000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd vintage_floral.png
+map_Kd cs148-final/room/vintage_floral.png
